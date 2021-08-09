@@ -14,7 +14,6 @@ notas.remove(max(notas))
 notas.remove(min(notas))
 print(notas)
 
-# Erro no cálculo
 media = sum(notas)/len(notas)
 
 
